@@ -1,1 +1,18 @@
-<svg viewBox="0 0 31 31" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><g transform="matrix(.06 0 0 .06 0 .278)"><clipPath id="a"><path d="M0 0h512v512H0z"/></clipPath><g clip-path="url(#a)"><path d="M498.808 377.784l-63.633-63.647c-16.978-16.978-46.641-17.007-63.647 0l-10.611 10.611 127.284 127.277 10.607-10.607c17.619-17.62 17.56-46.104 0-63.634zM339.116 345.37c-13.39 10.373-32.492 9.959-44.727-2.303L168.572 217.163c-12.263-12.263-12.676-31.379-2.303-44.736L39.278 45.443c-54.631 63.68-52.495 159.633 7.8 219.928l199.103 199.19c57.86 57.858 152.635 65.532 219.932 7.797L339.116 345.37zM197.503 76.391L133.87 12.744c-16.978-16.978-46.641-17.007-63.647 0L59.612 23.355l127.284 127.277 10.607-10.608c17.618-17.618 17.56-46.102 0-63.633z" fill="#fff" fill-rule="nonzero"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-99,-5281)">
+        <g transform="matrix(0.225114,0,0,0.338527,-0.665851,1703.07)">
+            <g id="phone-icon.svg" transform="matrix(0.266501,0,0,0.177217,510.96,10615.3)">
+                <g transform="matrix(1,0,0,1,-256,-256)">
+                    <clipPath id="_clip1">
+                        <rect x="0" y="0" width="512" height="512"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip1)">
+                        <path d="M498.808,377.784L435.175,314.137C418.197,297.159 388.534,297.13 371.528,314.137L360.917,324.748L488.201,452.025L498.808,441.418C516.427,423.798 516.368,395.314 498.808,377.784ZM339.116,345.37C325.726,355.743 306.624,355.329 294.389,343.067L168.572,217.163C156.309,204.9 155.896,185.784 166.269,172.427L39.278,45.443C-15.353,109.123 -13.217,205.076 47.078,265.371L246.181,464.561C304.041,522.419 398.816,530.093 466.113,472.358L339.116,345.37ZM197.503,76.391L133.87,12.744C116.892,-4.234 87.229,-4.263 70.223,12.744L59.612,23.355L186.896,150.632L197.503,140.024C215.121,122.406 215.063,93.922 197.503,76.391Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
