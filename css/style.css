@@ -522,18 +522,18 @@ body._lock {
   -webkit-transform: scale(0.8);
       -ms-transform: scale(0.8);
           transform: scale(0.8);
-  -webkit-transition: all 0.5 ease 0s;
-  -o-transition: all 0.5 ease 0s;
-  transition: all 0.5 ease 0s;
+  -webkit-transition: all 1.2s;
+  -o-transition: all 1.2s;
+  transition: all 1.2s;
 }
 
 .slider__slide.swiper-slide-active {
-  -webkit-transition: all 0.5 ease 0s;
-  -o-transition: all 0.5 ease 0s;
-  transition: all 0.5 ease 0s;
   -webkit-transform: scale(1);
       -ms-transform: scale(1);
           transform: scale(1);
+  -webkit-transition: all 1.2s;
+  -o-transition: all 1.2s;
+  transition: all 1.2s;
 }
 
 .slider__pagination {
